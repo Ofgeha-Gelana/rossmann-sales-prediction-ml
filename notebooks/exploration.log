@@ -1,0 +1,24 @@
+2024-09-22 21:19:31,737 - INFO - Loading train.csv dataset.
+2024-09-22 21:19:31,750 - ERROR - File not found: [Errno 2] No such file or directory: 'train.csv'
+2024-09-22 21:20:16,045 - INFO - Loading train.csv dataset.
+2024-09-22 21:20:16,537 - INFO - train.csv loaded successfully.
+2024-09-22 21:20:54,339 - INFO - Loading dataset.
+2024-09-22 21:20:54,829 - INFO - Datasets loaded successfully.
+2024-09-22 21:25:54,997 - INFO - Checking for missing values in df dataset.
+2024-09-22 21:25:55,075 - INFO - Missing values found:
+Store            0
+DayOfWeek        0
+Date             0
+Sales            0
+Customers        0
+Open             0
+Promo            0
+StateHoliday     0
+SchoolHoliday    0
+dtype: int64
+2024-09-22 21:29:19,986 - INFO - Handling missing values in the dataset.
+2024-09-22 21:29:22,551 - INFO - Filled missing values in CompetitionDistance column with median.
+2024-09-22 21:30:39,150 - INFO - Handling missing values in the dataset.
+2024-09-22 21:30:56,026 - INFO - Handling missing values in the dataset.
+2024-09-22 21:31:08,473 - INFO - Handling missing values in the dataset.
+2024-09-22 21:31:08,497 - INFO - Filled missing values in CompetitionDistance column with median.
