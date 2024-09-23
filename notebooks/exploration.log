@@ -22,3 +22,9 @@ dtype: int64
 2024-09-22 21:30:56,026 - INFO - Handling missing values in the dataset.
 2024-09-22 21:31:08,473 - INFO - Handling missing values in the dataset.
 2024-09-22 21:31:08,497 - INFO - Filled missing values in CompetitionDistance column with median.
+2024-09-22 21:54:09,010 - INFO - Loading dataset.
+2024-09-22 21:54:09,507 - INFO - Datasets loaded successfully.
+2024-09-22 21:54:45,082 - INFO - Loading dataset.
+2024-09-22 21:54:45,505 - INFO - Datasets loaded successfully.
+2024-09-22 22:12:19,329 - INFO - Loading datasets.
+2024-09-22 22:12:19,729 - INFO - Datasets loaded successfully.
