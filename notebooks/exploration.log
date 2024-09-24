@@ -36,3 +36,16 @@ dtype: int64
 2024-09-24 13:58:43,401 - INFO - Datasets loaded successfully.
 2024-09-24 14:00:13,912 - INFO - Loading datasets.
 2024-09-24 14:00:14,342 - INFO - Datasets loaded successfully.
+2024-09-24 14:02:15,104 - INFO - Checking for missing values in train.csv dataset.
+2024-09-24 14:02:15,184 - INFO - Missing values found:
+Store            0
+DayOfWeek        0
+Date             0
+Sales            0
+Customers        0
+Open             0
+Promo            0
+StateHoliday     0
+SchoolHoliday    0
+dtype: int64
+2024-09-24 14:02:30,744 - INFO - Handling missing values in the dataset.
